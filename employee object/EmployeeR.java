@@ -3,8 +3,8 @@ class EmployeeR
 	int id;
 	String name;
 	
-	static String College_name;
-	static String degree;
+	static String company_name;
+	static String department;
 	
 	void displayData()
 	{
