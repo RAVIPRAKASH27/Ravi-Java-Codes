@@ -2,9 +2,9 @@ class Main_Employee
 {
 	public static void main(String[]args)
 	{
-	StudentR e1 = new StudentR ();
-	StudentR e2 = new StudentR ();
-	StudentR e3 = new StudentR ();
+	EmployeeR e1 = new EmployeeR();
+	EmployeeR e2 = new EmployeerR();
+	EmployeeR e3 = new EmployeeR();
 
 	e1.id = 1;
 	e1.name = "Ravi";
