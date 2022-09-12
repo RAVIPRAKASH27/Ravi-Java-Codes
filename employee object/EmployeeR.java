@@ -3,8 +3,8 @@ class EmployeeR
 	int id;
 	String name;
 	
-	static String company_name;
-	static String department;
+	static String company_name =="TCS";
+	static String department =="IT";
 	
 	void displayData()
 	{
