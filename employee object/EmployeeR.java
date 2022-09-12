@@ -8,7 +8,7 @@ class EmployeeR
 	
 	void displayData()
 	{
-	System.out.println(id+" "+name);
+	System.out.println(id+" "+name+" "+(company_name="TCS")+" "+(department="IT"));
 	}
 	
 }
